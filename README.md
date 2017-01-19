@@ -21,3 +21,11 @@ A central location for listing my technical skills I've learned and aspire to le
 - Frontend: JavaScript, React, HTML, CSS, SASS/SCSS, Stylus, JQuery, CoffeeScript, SVG, Backbone
 - SCM/Systems: Git, SVN, P4, g4, AWS, EC2, S3, Heroku
 - APIs: Facebook, YouTube, Github, Google Map, Glass Mirror API, Leap Motion, Twilio, Ark
+
+# Desired Skills
+I love technical challenges and diving deep into new technologies. I would like to learn any skill required to create beautiful, seemless experiences. 
+- Databases
+- ETL
+- Chef
+- SRE
+- Look at skills on job requirements
